@@ -1,27 +1,18 @@
 **日本語** · [English](README.en.md)
 
-![夕暮れの作業机。モニターには宇宙ゲーム、ランプの下にはマイコンボード。](assets/workshop.png)
-
 # Anatolii Ponomarev
 
-Unityでゲームを作っています。  
-これからは、マイコンを使ったものづくりにも挑戦したいです。
+![夕暮れの作業机。モニターには宇宙ゲーム、ランプの下にはマイコンボード。](assets/workshop.png)
 
-**ゲーム開発**
+<table>
+  <tr><th>ゲーム開発</th><th>組み込み開発</th></tr>
+  <tr><td width="360" align="center"><img src="https://skillicons.dev/icons?i=unity,cs,rider,git" alt="Unity · C# · Rider · Git" width="132"></td><td width="360" align="center"><img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32"> <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&amp;logo=kicad&amp;logoColor=white" alt="KiCad"></td></tr>
+</table>
 
-![Unity · C# · Rider · Git](https://skillicons.dev/icons?i=unity,cs,rider,git)
-
-**これから学びたい組み込み開発**
-
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-
-## 作業中の音楽
-
-[![Spotifyで再生中の曲](https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&cover_image=true&theme=compact&show_offline=true&background_color=202936)](https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a)
-
-## GitHubでの活動
-
-![現在と最長の連続活動日数](https://streak-stats.demolab.com/?user=anatolii-ponomarev&theme=tokyonight&hide_border=true&locale=ja)
+<p align="center">
+  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;cover_image=true&amp;theme=compact&amp;show_offline=true&amp;background_color=202936" alt="Spotifyで再生中の曲" width="290" align="middle"></a>
+  <img src="https://streak-stats.demolab.com/?user=anatolii-ponomarev&amp;theme=tokyonight&amp;hide_border=true&amp;locale=ja" alt="現在と最長の連続活動日数" width="370" align="middle">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anatolii-ponomarev/anatolii-ponomarev/master/assets/pacman-contribution-graph-dark.svg">
