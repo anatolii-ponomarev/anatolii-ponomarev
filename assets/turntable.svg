@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 100" role="img" aria-labelledby="title">
+  <title id="title">Vinyl turntable</title>
+  <defs>
+    <linearGradient id="wood" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#b27452"/><stop offset="1" stop-color="#794731"/>
+    </linearGradient>
+    <linearGradient id="wax" x2="1" y2="1">
+      <stop stop-color="#111824"/><stop offset=".36" stop-color="#34394a"/><stop offset=".53" stop-color="#151a26"/><stop offset=".75" stop-color="#303446"/><stop offset="1" stop-color="#121722"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="13" width="118" height="79" rx="6" fill="#18202d"/>
+  <rect x="5" y="9" width="118" height="79" rx="6" fill="url(#wood)"/>
+  <path d="M10 13h108M10 83h108" stroke="#e1a97c" opacity=".5"/>
+  <rect x="11" y="15" width="106" height="66" rx="3" fill="#31313a"/>
+  <circle cx="49" cy="48" r="30.5" fill="url(#wax)" stroke="#96909a"/>
+  <g fill="none" stroke="#777681" stroke-width=".5" opacity=".7">
+    <circle cx="49" cy="48" r="27"/><circle cx="49" cy="48" r="24"/><circle cx="49" cy="48" r="21"/><circle cx="49" cy="48" r="18"/><circle cx="49" cy="48" r="15"/>
+  </g>
+  <circle cx="49" cy="48" r="10.2" fill="#8edac4"/>
+  <path d="M39.7 44a10.2 10.2 0 0 1 17.8-2l-17 10z" fill="#5b9f95"/>
+  <circle cx="49" cy="48" r="1.9" fill="#18202d"/>
+  <circle cx="100" cy="28" r="8" fill="#1c2029" stroke="#97919a"/>
+  <path d="m100 28-7 27-14 9" fill="none" stroke="#191c25" stroke-width="5" stroke-linecap="round"/>
+  <path d="m100 27-7 26-14 9" fill="none" stroke="#d7c7b1" stroke-width="3" stroke-linecap="round"/>
+  <path d="m75 61 5-3 4 5-7 5-3-3z" fill="#eaa875"/>
+  <circle cx="105" cy="68" r="4" fill="#d6c8b3"/>
+  <rect x="88" y="70" width="6" height="2" rx="1" fill="#89cdb9"/>
+</svg>
