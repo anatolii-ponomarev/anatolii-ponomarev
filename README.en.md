@@ -17,7 +17,10 @@ Next, I’d like to build things with microcontrollers.
 
 ## Music at my desk
 
-[![My current track on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&cover_image=true&theme=compact&show_offline=true&background_color=202936)](https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a)
+<p>
+  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="assets/turntable.svg" width="104" align="middle" alt="Vinyl turntable"></a>
+  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;theme=novatorem&amp;cover_image=true&amp;show_offline=true&amp;bar_color=83e7bd" width="270" align="middle" alt="Now playing on Spotify"></a>
+</p>
 
 ## GitHub activity
 
