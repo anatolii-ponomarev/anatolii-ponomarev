@@ -4,7 +4,7 @@
 
 # Anatolii Ponomarev
 
-Unityでゲームを作っています。ゲームの仕組みをじっくり掘り下げて、どう動いているのかを理解するのが好きです。  
+Unityでゲームを作っています。  
 これからは、マイコンを使ったものづくりにも挑戦したいです。
 
 **ゲーム開発**
@@ -17,10 +17,7 @@ Unityでゲームを作っています。ゲームの仕組みをじっくり掘
 
 ## 作業中の音楽
 
-<p>
-  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="assets/turntable.svg" width="104" align="middle" alt="レコードプレーヤー"></a>
-  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;theme=novatorem&amp;cover_image=true&amp;show_offline=true&amp;bar_color=83e7bd" width="270" align="middle" alt="Spotifyで再生中の曲"></a>
-</p>
+[![Spotifyで再生中の曲](https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&cover_image=true&theme=compact&show_offline=true&background_color=202936)](https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a)
 
 ## GitHubでの活動
 
