@@ -7,8 +7,14 @@
 I make games with Unity.  
 Next, I’d like to build things with microcontrollers.
 
+![Unity · C#](https://skillicons.dev/icons?i=unity,cs)
+
 ## Music at my desk
 
 [![My current track on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&cover_image=true&theme=compact&show_offline=true&background_color=202936)](https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a)
+
+<a href="https://bongo.cat/"><img src="https://bongo.cat/meta/thumbnail.png" width="116" alt="Play the bongos with Bongo Cat"></a>
+
+[Play the bongos with Bongo Cat ↗](https://bongo.cat/)
 
 ![A mint snake follows my GitHub contribution calendar](assets/snake.svg)
