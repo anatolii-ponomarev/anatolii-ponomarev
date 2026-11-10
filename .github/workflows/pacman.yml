@@ -1,0 +1,40 @@
+name: Pac-Man contribution calendar
+
+on:
+  push:
+    branches: [master]
+    paths: ['.github/workflows/pacman.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: "21 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pacman-calendar
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: abozanona/pacman-contribution-graph@294c47eff28a41339a279107ae771b5fa020037a
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+      - name: Publish the calendar
+        run: |
+          cp dist/pacman-contribution-graph*.svg assets/
+          git add -- assets/pacman-contribution-graph*.svg
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Refresh Pac-Man calendar"
+            git pull --rebase
+            git push
+          fi
