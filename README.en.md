@@ -10,8 +10,8 @@
 </table>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;cover_image=true&amp;theme=compact&amp;show_offline=true&amp;background_color=202936" alt="My current track on Spotify" width="290" align="middle"></a>
-  <img src="https://streak-stats.demolab.com/?user=anatolii-ponomarev&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="Current and longest contribution streaks" width="370" align="middle">
+  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=202936" alt="Current or last played track on Spotify" width="160" align="middle"></a>
+  <img src="https://streak-stats.demolab.com/?user=anatolii-ponomarev&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="Current and longest contribution streaks" width="495" align="middle">
 </p>
 
 <picture>
