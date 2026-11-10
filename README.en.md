@@ -4,7 +4,7 @@
 
 # Anatolii Ponomarev
 
-I make games with Unity.  
+I make games with Unity. My favorite part is digging into game mechanics and figuring out how they work.  
 Next, I’d like to build things with microcontrollers.
 
 **Game development**
