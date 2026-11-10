@@ -10,8 +10,8 @@
 </table>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;cover_image=true&amp;theme=compact&amp;show_offline=true&amp;background_color=202936" alt="Spotifyで再生中の曲" width="290" align="middle"></a>
-  <img src="https://streak-stats.demolab.com/?user=anatolii-ponomarev&amp;theme=tokyonight&amp;hide_border=true&amp;locale=ja" alt="現在と最長の連続活動日数" width="370" align="middle">
+  <a href="https://open.spotify.com/user/31gosgu52ff2jlba755z4wv7tj2a"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gosgu52ff2jlba755z4wv7tj2a&amp;cover_image=true&amp;theme=compact&amp;show_offline=false&amp;background_color=202936" alt="Spotifyで再生中の曲、または最後に聴いた曲" width="160" align="middle"></a>
+  <img src="https://streak-stats.demolab.com/?user=anatolii-ponomarev&amp;theme=tokyonight&amp;hide_border=true&amp;locale=ja" alt="現在と最長の連続活動日数" width="495" align="middle">
 </p>
 
 <picture>
