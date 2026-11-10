@@ -7,7 +7,13 @@
 Unityでゲームを作っています。  
 これからは、マイコンを使ったものづくりにも挑戦したいです。
 
-![Unity · C#](https://skillicons.dev/icons?i=unity,cs)
+**ゲーム開発**
+
+![Unity · C# · Rider · Git](https://skillicons.dev/icons?i=unity,cs,rider,git)
+
+**これから学びたい組み込み開発**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 
 ## 作業中の音楽
 
@@ -17,4 +23,12 @@ Unityでゲームを作っています。
 
 [Bongo Catとボンゴをたたく ↗](https://bongo.cat/)
 
-![GitHubの活動カレンダーを進むミント色のヘビ](assets/snake.svg)
+## GitHubでの活動
+
+![現在と最長の連続活動日数](https://streak-stats.demolab.com/?user=anatolii-ponomarev&theme=tokyonight&hide_border=true&locale=ja)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anatolii-ponomarev/anatolii-ponomarev/master/assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anatolii-ponomarev/anatolii-ponomarev/master/assets/pacman-contribution-graph.svg">
+  <img alt="GitHubの活動カレンダーを進むパックマン" src="https://raw.githubusercontent.com/anatolii-ponomarev/anatolii-ponomarev/master/assets/pacman-contribution-graph.svg">
+</picture>
